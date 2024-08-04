@@ -14,3 +14,5 @@ Change the path of dataset accordingly in file lfspectrogram_generation.ipynb
 4. Vision Transformers<br>
 
 Note: Change path of Train and Test dataset for both depressed and non-depressed classes.
+
+## report : Depression Detection.pdf
